@@ -1,0 +1,22 @@
+header{
+    
+
+    display: flex;
+    margin: 0 auto;
+    width: 960px;
+    /* background-color: red; */
+    
+
+}
+
+.a{
+
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.b{
+    border: 1px solid black;
+    padding: 30px;
+    margin-left: auto;
+}
